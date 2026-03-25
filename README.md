@@ -27,7 +27,7 @@ I am solving problems topic-wise to improve problem-solving skills and prepare f
 
 | Topic       | Solved |
 | ----------- | ------ |
-| Arrays      | 3     |
+| Arrays      | 4     |
 | Strings     | 0      |
 | Linked List | 0      |
 
